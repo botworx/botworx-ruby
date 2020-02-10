@@ -1,0 +1,13 @@
+#
+# Hello
+#
+
+class Hello
+
+  def main
+    say 'Hello'
+    + I say 'Hello'
+    say $t
+
+  def say(+ I say $t)
+    | print t
